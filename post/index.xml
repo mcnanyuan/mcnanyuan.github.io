@@ -2,80 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Posts on NanYuan | 南原</title>
-        <link>http://localhost:11061/post/</link>
+        <link>http://localhost:3040/post/</link>
         <description>Recent content in Posts on NanYuan | 南原</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
-        <lastBuildDate>Sun, 09 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:11061/post/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>游玩教程</title>
-        <link>http://localhost:11061/p/first-tutorial/</link>
-        <pubDate>Sun, 09 Nov 2025 00:00:00 +0000</pubDate>
+        <lastBuildDate>Fri, 21 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:3040/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Windows (PCL) 安装&amp;游玩教程</title>
+        <link>http://localhost:3040/p/pcl-tutorial/</link>
+        <pubDate>Fri, 21 Nov 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:11061/p/first-tutorial/</guid>
-        <description>&lt;p&gt;你好！欢迎来到 NanYuan 南原 ！&lt;/p&gt;
-&lt;p&gt;无论你从哪里来，我们都来到了这里，一起开始第一天的游玩吧。&lt;/p&gt;
-&lt;h2 id=&#34;注册账号&#34;&gt;注册账号
-&lt;/h2&gt;&lt;p&gt;首先，你得去&lt;a class=&#34;link&#34; href=&#34;https://skin.nanyuan.site/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;我们的皮肤站&lt;/a&gt;注册一个账号&lt;/p&gt;
-&lt;p&gt;如果一切正常，你将会看到这样的注册页面：&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://youke1.picui.cn/s1/2025/11/06/690c996c1bcec.png&#34;
-	
-	
-	
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;1762433425664.png&#34;
-	
-	
-&gt;&lt;/p&gt;
-&lt;table&gt;
-  &lt;thead&gt;
-      &lt;tr&gt;
-          &lt;th&gt;栏目&lt;/th&gt;
-          &lt;th&gt;要求&lt;/th&gt;
-      &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-      &lt;tr&gt;
-          &lt;td&gt;电子邮箱&lt;/td&gt;
-          &lt;td&gt;格式严格按照&lt;code&gt;QQ号@qq.com&lt;/code&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;密码&lt;/td&gt;
-          &lt;td&gt;至少8位&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;重复密码&lt;/td&gt;
-          &lt;td&gt;同&lt;em&gt;密码&lt;/em&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;游戏内角色名&lt;/td&gt;
-          &lt;td&gt;大小写字母数字下划线&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;验证码&lt;/td&gt;
-          &lt;td&gt;/&lt;/td&gt;
-      &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-&lt;p&gt;提示注册成功后，应会在主页提示&lt;em&gt;验证你的邮箱地址&lt;/em&gt;，如下图：&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://youke1.picui.cn/s1/2025/11/06/690c9c49990a1.png&#34;
-	
-	
-	
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;1762434158778.png&#34;
-	
-	
-&gt;&lt;/p&gt;
-&lt;p&gt;注册完毕后，请根据您当前的操作系统按照教程走。&lt;/p&gt;
-&lt;p&gt;我们目前支持两种操作系统：&lt;a class=&#34;link&#34; href=&#34;#windows-%e6%95%99%e7%a8%8b&#34; &gt;Windows&lt;/a&gt; 和 &lt;a class=&#34;link&#34; href=&#34;#android-%e6%95%99%e7%a8%8b&#34; &gt;Android&lt;/a&gt;（ &lt;del&gt;敬请期待&lt;/del&gt; 正在施工）&lt;/p&gt;
-&lt;h2 id=&#34;windows-教程&#34;&gt;Windows 教程
-&lt;/h2&gt;&lt;p&gt;如果你使用 Windows ，请按照下面的步骤走。&lt;/p&gt;
-&lt;h3 id=&#34;准备工作&#34;&gt;准备工作
-&lt;/h3&gt;&lt;h4 id=&#34;安装-pcl2&#34;&gt;安装 PCL2
-&lt;/h4&gt;&lt;p&gt;首先，请去下载 &lt;a class=&#34;link&#34; href=&#34;https://ltcat.lanzouv.com/b0aj6gsid&#34;  title=&#34;官方蓝奏云下载链接&#34;
+        <guid>http://localhost:3040/p/pcl-tutorial/</guid>
+        <description>&lt;img src="http://localhost:3040/p/pcl-tutorial/wallpaper.jpg" alt="Featured image of post Windows (PCL) 安装&amp;游玩教程" /&gt;&lt;p&gt;本篇文章将引导您在 Windows 上游玩我们的服务器。&lt;/p&gt;
+&lt;p&gt;在 Windows 上可以使用的官方/非官方启动器有很多，下文将以 &lt;abbr title=&#34;Plain Craft Launcher 2&#34;&gt;PCL2&lt;/abbr&gt; 为例。&lt;/p&gt;
+&lt;h1 id=&#34;准备工作&#34;&gt;准备工作
+&lt;/h1&gt;&lt;h2 id=&#34;安装-pcl2&#34;&gt;安装 PCL2
+&lt;/h2&gt;&lt;p&gt;首先，请去下载 &lt;a class=&#34;link&#34; href=&#34;https://ltcat.lanzouv.com/b0aj6gsid&#34;  title=&#34;官方蓝奏云下载链接&#34;
      target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;PCL2&lt;/a&gt; ，密码 &lt;code&gt;pcl2&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;下载最新版本（时间最靠前）的zip文件（通常是&lt;code&gt;PCL 正式版 x.xx.x.zip&lt;/code&gt;），下载到本地解压。&lt;/p&gt;
@@ -94,17 +35,17 @@
 	
 	
 &gt;&lt;/p&gt;
-&lt;h4 id=&#34;安装-xplus-整合包&#34;&gt;安装 XPlus 整合包
-&lt;/h4&gt;&lt;p&gt;接下来，请前往&lt;a class=&#34;link&#34; href=&#34;https://nanyuan.site/files/XPlus%20OptiReady%20v9.0.1%20based%20on%20Minecraft%201.18.2%20%28Forge%29.zip&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;此链接&lt;/a&gt;下载 XPlus 1.18.2 整合包 。&lt;/p&gt;
+&lt;h2 id=&#34;安装-xplus-整合包&#34;&gt;安装 XPlus 整合包
+&lt;/h2&gt;&lt;p&gt;接下来，请前往&lt;a class=&#34;link&#34; href=&#34;https://www.123865.com/s/T7TXvd-z7i3A&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;此链接&lt;/a&gt;下载 XPlus 1.20.1 整合包 。&lt;/p&gt;
 &lt;p&gt;下载完毕后，直接将整合包拖入打开的 PCL2 窗口。如果正常，它会提示你正在安装 MCBBS 整合包，如下图：&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://youke1.picui.cn/s1/2025/11/07/690dc0d012d6d.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://youke1.picui.cn/s1/2025/11/21/6920763d3411e.png&#34;
 	
 	
 	
 	loading=&#34;lazy&#34;
 	
-		alt=&#34;1762509048003.png&#34;
+		alt=&#34;1763735144062.png&#34;
 	
 	
 &gt;&lt;/p&gt;
@@ -112,33 +53,33 @@
 &lt;p&gt;如果 PCL2 提示你是否要安装 Java ，请一定点&lt;code&gt;确定&lt;/code&gt;，否则可能导致后面的步骤错误。&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;安装完成后，应显示下图：&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://youke1.picui.cn/s1/2025/11/07/690dc1cac0e2c.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://youke1.picui.cn/s1/2025/11/21/6920771a792ce.png&#34;
 	
 	
 	
 	loading=&#34;lazy&#34;
 	
-		alt=&#34;1762509299010.png&#34;
+		alt=&#34;1763735365158.png&#34;
 	
 	
 &gt;&lt;/p&gt;
-&lt;h4 id=&#34;安装-optifine-模组&#34;&gt;安装 OptiFine 模组
-&lt;/h4&gt;&lt;p&gt;接下来前往&lt;a class=&#34;link&#34; href=&#34;https://nanyuan.site/files/OptiFine_1.18.2_HD_U_H7.jar&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+&lt;h2 id=&#34;安装-optifine-模组&#34;&gt;安装 OptiFine 模组
+&lt;/h2&gt;&lt;p&gt;接下来前往&lt;a class=&#34;link&#34; href=&#34;https://www.123865.com/s/T7TXvd-L7i3A&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;此链接&lt;/a&gt;下载 OptiFine 模组 。&lt;/p&gt;
 &lt;p&gt;下载完毕后，直接将文件拖入打开的 PCL2 窗口。如果正常，它会提示你是否安装 Mod ，如下图：&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://youke1.picui.cn/s1/2025/11/07/690dc36d28432.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://youke1.picui.cn/s1/2025/11/21/6920784169f21.png&#34;
 	
 	
 	
 	loading=&#34;lazy&#34;
 	
-		alt=&#34;1762509710620.png&#34;
+		alt=&#34;1763735660099.png&#34;
 	
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;点&lt;code&gt;确定&lt;/code&gt;安装。&lt;/p&gt;
-&lt;h4 id=&#34;设置-第三方登录&#34;&gt;设置 第三方登录
-&lt;/h4&gt;&lt;p&gt;安装后，点击&lt;code&gt;版本设置&lt;/code&gt;，在侧栏选择&lt;code&gt;设置&lt;/code&gt;，找到&lt;code&gt;服务器&lt;/code&gt;，应为下图：&lt;/p&gt;
+&lt;h1 id=&#34;设置-第三方登录&#34;&gt;设置 第三方登录
+&lt;/h1&gt;&lt;p&gt;安装后，点击&lt;code&gt;版本设置&lt;/code&gt;，在侧栏选择&lt;code&gt;设置&lt;/code&gt;，找到&lt;code&gt;服务器&lt;/code&gt;，应为下图：&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://youke1.picui.cn/s1/2025/11/08/690ee2866d5a2.png&#34;
 	
 	
@@ -192,51 +133,51 @@
 	
 &gt;&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;请不要点&lt;code&gt;设置为LittleSkin&lt;/code&gt;，这将导致后面的步骤错误&lt;/p&gt;
+&lt;p&gt;请不要点&lt;code&gt;设置为 LittleSkin&lt;/code&gt;，这将导致后面的步骤错误&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;之后直接按左上角左箭头返回主页，应显示下图：&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://youke1.picui.cn/s1/2025/11/08/690f031500a0c.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://youke1.picui.cn/s1/2025/11/21/692078fa7c38b.png&#34;
 	
 	
 	
 	loading=&#34;lazy&#34;
 	
-		alt=&#34;1762591546086.png&#34;
+		alt=&#34;1763735845015.png&#34;
 	
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;在&lt;code&gt;邮箱&lt;/code&gt;和&lt;code&gt;密码&lt;/code&gt;栏目填入您在&lt;a class=&#34;link&#34; href=&#34;#%e6%b3%a8%e5%86%8c%e8%b4%a6%e5%8f%b7&#34; &gt;注册账号&lt;/a&gt;时填写的&lt;code&gt;电子邮箱&lt;/code&gt;和&lt;code&gt;密码&lt;/code&gt;。&lt;/p&gt;
-&lt;h3 id=&#34;添加服务器&#34;&gt;添加服务器
-&lt;/h3&gt;&lt;p&gt;先点击&lt;code&gt;启动游戏&lt;/code&gt;，之后等待约3到20秒，就会出现游戏窗口，显示如下图的 Mojang 加载页面：&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://youke1.picui.cn/s1/2025/11/08/690f05c46051a.png&#34;
+&lt;h1 id=&#34;添加服务器&#34;&gt;添加服务器
+&lt;/h1&gt;&lt;p&gt;先点击&lt;code&gt;启动游戏&lt;/code&gt;，之后等待约3到20秒，就会出现游戏窗口，显示如下图的 Forge 加载页面：&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://youke1.picui.cn/s1/2025/11/21/69207988084bf.png&#34;
 	
 	
 	
 	loading=&#34;lazy&#34;
 	
-		alt=&#34;1762592236018.png&#34;
+		alt=&#34;1763735987503.png&#34;
 	
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;再等待一会儿，就会进入游戏主菜单，如下图：&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://youke1.picui.cn/s1/2025/11/08/690f060c5cb2b.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://youke1.picui.cn/s1/2025/11/21/692079c1273a6.png&#34;
 	
 	
 	
 	loading=&#34;lazy&#34;
 	
-		alt=&#34;1762592307346.png&#34;
+		alt=&#34;1763736039668.png&#34;
 	
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;点击&lt;code&gt;多人游戏&lt;/code&gt;，应显示下图：&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://youke1.picui.cn/s1/2025/11/08/690f067d5a31b.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://youke1.picui.cn/s1/2025/11/21/692079eb4397f.png&#34;
 	
 	
 	
 	loading=&#34;lazy&#34;
 	
-		alt=&#34;1762592421602.png&#34;
+		alt=&#34;1763736083551.png&#34;
 	
 	
 &gt;&lt;/p&gt;
@@ -264,34 +205,114 @@
   &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;p&gt;填写完毕后，应如下图：&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://youke1.picui.cn/s1/2025/11/08/690f07957e384.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://youke1.picui.cn/s1/2025/11/21/69207a3c7b1c0.png&#34;
 	
 	
 	
 	loading=&#34;lazy&#34;
 	
-		alt=&#34;1762592701436.png&#34;
+		alt=&#34;1763736164486.png&#34;
 	
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;点击&lt;code&gt;完成&lt;/code&gt;，回到 多人游戏 界面，应显示下图：&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://youke1.picui.cn/s1/2025/11/09/690fe17de0fe3.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://youke1.picui.cn/s1/2025/11/21/69207a47e99fb.png&#34;
 	
 	
 	
 	loading=&#34;lazy&#34;
 	
-		alt=&#34;1762648486480.png&#34;
+		alt=&#34;1763736175760.png&#34;
 	
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;点击 &lt;em&gt;原&lt;/em&gt; 字图标即可进入服务器。&lt;/p&gt;
-&lt;h2 id=&#34;android-教程&#34;&gt;Android 教程
-&lt;/h2&gt;&lt;blockquote&gt;
-&lt;p&gt;我们非常不建议您使用 Android 游玩，因为其有操作不便、容易误触、安装困难等不便因素。&lt;/p&gt;
-&lt;p&gt;我们推荐使用 Android 进行挂机或传送等简单操作。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;教程正在编写，稍安勿躁。&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>游玩教程</title>
+        <link>http://localhost:3040/p/play-tutorial/</link>
+        <pubDate>Fri, 21 Nov 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:3040/p/play-tutorial/</guid>
+        <description>&lt;p&gt;你好！欢迎来到 NanYuan 南原 ！&lt;/p&gt;
+&lt;p&gt;无论你从哪里来，我们都来到了这里，一起开始第一天的游玩吧。&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;../register-skin-account&#34; &gt;注册 皮肤站 账号&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;安装游玩客户端
+&lt;ol&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;../pcl-tutorial&#34; &gt;Windows (PCL)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;../fcl-tutorial&#34; &gt;Android (FCL)&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;正在施工🚧&amp;hellip;&amp;hellip;&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+        </item>
+        <item>
+        <title>注册 皮肤站 账号</title>
+        <link>http://localhost:3040/p/register-skin-account/</link>
+        <pubDate>Fri, 21 Nov 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:3040/p/register-skin-account/</guid>
+        <description>&lt;img src="http://localhost:3040/p/register-skin-account/wallpaper.png" alt="Featured image of post 注册 皮肤站 账号" /&gt;&lt;p&gt;本篇文章将引导您在&lt;a class=&#34;link&#34; href=&#34;https://skin.nanyuan.site/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;我们的皮肤站&lt;/a&gt;注册一个账号&lt;/p&gt;
+&lt;p&gt;前往&lt;a class=&#34;link&#34; href=&#34;https://skin.nanyuan.site/auth/register&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;注册页面&lt;/a&gt;后，如果一切正常，你将会看到这样的注册页面：&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://youke1.picui.cn/s1/2025/11/06/690c996c1bcec.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;1762433425664.png&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;填写时，您&lt;strong&gt;必须&lt;/strong&gt;遵守下方的要求。&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;栏目&lt;/th&gt;
+          &lt;th&gt;要求&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;电子邮箱&lt;/td&gt;
+          &lt;td&gt;格式严格按照&lt;code&gt;QQ号@qq.com&lt;/code&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;密码&lt;/td&gt;
+          &lt;td&gt;至少8位&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;重复密码&lt;/td&gt;
+          &lt;td&gt;同&lt;em&gt;密码&lt;/em&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;游戏内角色名&lt;/td&gt;
+          &lt;td&gt;大小写字母数字下划线&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;验证码&lt;/td&gt;
+          &lt;td&gt;/&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;提示注册成功后，应会在主页提示&lt;em&gt;验证你的邮箱地址&lt;/em&gt;，如下图：&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://youke1.picui.cn/s1/2025/11/06/690c9c49990a1.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;1762434158778.png&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;您&lt;strong&gt;必须完成邮箱验证&lt;/strong&gt;，才能继续使用皮肤站的服务。&lt;/p&gt;
+&lt;p&gt;注册完毕后，请回到 &lt;a class=&#34;link&#34; href=&#34;../first-tutorial&#34; &gt;游玩教程&lt;/a&gt; 继续。&lt;/p&gt;
 </description>
         </item>
         
