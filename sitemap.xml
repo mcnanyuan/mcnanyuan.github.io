@@ -2,37 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:13269/</loc>
+    <loc>https://nanyuan.site/</loc>
     <lastmod>2025-11-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:13269/categories/</loc>
+    <loc>https://nanyuan.site/categories/</loc>
     <lastmod>2025-11-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:13269/post/</loc>
+    <loc>https://nanyuan.site/post/</loc>
     <lastmod>2025-11-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:13269/p/pcl-tutorial/</loc>
+    <loc>https://nanyuan.site/p/pcl-tutorial/</loc>
     <lastmod>2025-11-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:13269/categories/tutorial/</loc>
+    <loc>https://nanyuan.site/categories/tutorial/</loc>
     <lastmod>2025-11-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:13269/p/play-tutorial/</loc>
+    <loc>https://nanyuan.site/p/play-tutorial/</loc>
     <lastmod>2025-11-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:13269/p/register-skin-account/</loc>
+    <loc>https://nanyuan.site/p/register-skin-account/</loc>
     <lastmod>2025-11-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:13269/page/</loc>
+    <loc>https://nanyuan.site/page/</loc>
     <lastmod>2022-03-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:13269/archives/</loc>
+    <loc>https://nanyuan.site/archives/</loc>
     <lastmod>2022-03-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:13269/tags/</loc>
+    <loc>https://nanyuan.site/tags/</loc>
   </url><url>
-    <loc>http://localhost:13269/search/</loc>
+    <loc>https://nanyuan.site/search/</loc>
   </url><url>
-    <loc>http://localhost:13269/resources/</loc>
+    <loc>https://nanyuan.site/resources/</loc>
   </url>
 </urlset>

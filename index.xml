@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>NanYuan | 南原</title>
-        <link>http://localhost:13269/</link>
+        <link>https://nanyuan.site/</link>
         <description>Recent content on NanYuan | 南原</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
-        <lastBuildDate>Fri, 21 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:13269/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Fri, 21 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://nanyuan.site/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Windows (PCL) 安装&amp;游玩教程</title>
-        <link>http://localhost:13269/p/pcl-tutorial/</link>
+        <link>https://nanyuan.site/p/pcl-tutorial/</link>
         <pubDate>Fri, 21 Nov 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:13269/p/pcl-tutorial/</guid>
-        <description>&lt;img src="http://localhost:13269/p/pcl-tutorial/wallpaper.jpg" alt="Featured image of post Windows (PCL) 安装&amp;游玩教程" /&gt;&lt;p&gt;本篇文章将引导您在 Windows 上游玩我们的服务器。&lt;/p&gt;
+        <guid>https://nanyuan.site/p/pcl-tutorial/</guid>
+        <description>&lt;img src="https://nanyuan.site/p/pcl-tutorial/wallpaper.jpg" alt="Featured image of post Windows (PCL) 安装&amp;游玩教程" /&gt;&lt;p&gt;本篇文章将引导您在 Windows 上游玩我们的服务器。&lt;/p&gt;
 &lt;p&gt;在 Windows 上可以使用的官方/非官方启动器有很多，下文将以 &lt;abbr title=&#34;Plain Craft Launcher 2&#34;&gt;PCL2&lt;/abbr&gt; 为例。&lt;/p&gt;
-&lt;h1 id=&#34;准备工作&#34;&gt;准备工作
-&lt;/h1&gt;&lt;h2 id=&#34;安装-pcl2&#34;&gt;安装 PCL2
-&lt;/h2&gt;&lt;p&gt;首先，请去下载 &lt;a class=&#34;link&#34; href=&#34;https://ltcat.lanzouv.com/b0aj6gsid&#34;  title=&#34;官方蓝奏云下载链接&#34;
+&lt;h2 id=&#34;准备工作&#34;&gt;准备工作
+&lt;/h2&gt;&lt;h3 id=&#34;安装-pcl2&#34;&gt;安装 PCL2
+&lt;/h3&gt;&lt;p&gt;首先，请去下载 &lt;a class=&#34;link&#34; href=&#34;https://ltcat.lanzouv.com/b0aj6gsid&#34;  title=&#34;官方蓝奏云下载链接&#34;
      target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;PCL2&lt;/a&gt; ，密码 &lt;code&gt;pcl2&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;下载最新版本（时间最靠前）的zip文件（通常是&lt;code&gt;PCL 正式版 x.xx.x.zip&lt;/code&gt;），下载到本地解压。&lt;/p&gt;
@@ -35,8 +35,8 @@
 	
 	
 &gt;&lt;/p&gt;
-&lt;h2 id=&#34;安装-xplus-整合包&#34;&gt;安装 XPlus 整合包
-&lt;/h2&gt;&lt;p&gt;接下来，请前往&lt;a class=&#34;link&#34; href=&#34;https://www.123865.com/s/T7TXvd-z7i3A&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+&lt;h3 id=&#34;安装-xplus-整合包&#34;&gt;安装 XPlus 整合包
+&lt;/h3&gt;&lt;p&gt;接下来，请前往&lt;a class=&#34;link&#34; href=&#34;https://www.123865.com/s/T7TXvd-z7i3A&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;此链接&lt;/a&gt;下载 XPlus 1.20.1 整合包 。&lt;/p&gt;
 &lt;p&gt;下载完毕后，直接将整合包拖入打开的 PCL2 窗口。如果正常，它会提示你正在安装 MCBBS 整合包，如下图：&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://youke1.picui.cn/s1/2025/11/21/6920763d3411e.png&#34;
@@ -63,8 +63,8 @@
 	
 	
 &gt;&lt;/p&gt;
-&lt;h2 id=&#34;安装-optifine-模组&#34;&gt;安装 OptiFine 模组
-&lt;/h2&gt;&lt;p&gt;接下来前往&lt;a class=&#34;link&#34; href=&#34;https://www.123865.com/s/T7TXvd-L7i3A&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+&lt;h3 id=&#34;安装-optifine-模组&#34;&gt;安装 OptiFine 模组
+&lt;/h3&gt;&lt;p&gt;接下来前往&lt;a class=&#34;link&#34; href=&#34;https://www.123865.com/s/T7TXvd-L7i3A&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;此链接&lt;/a&gt;下载 OptiFine 模组 。&lt;/p&gt;
 &lt;p&gt;下载完毕后，直接将文件拖入打开的 PCL2 窗口。如果正常，它会提示你是否安装 Mod ，如下图：&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://youke1.picui.cn/s1/2025/11/21/6920784169f21.png&#34;
@@ -78,8 +78,8 @@
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;点&lt;code&gt;确定&lt;/code&gt;安装。&lt;/p&gt;
-&lt;h1 id=&#34;设置-第三方登录&#34;&gt;设置 第三方登录
-&lt;/h1&gt;&lt;p&gt;安装后，点击&lt;code&gt;版本设置&lt;/code&gt;，在侧栏选择&lt;code&gt;设置&lt;/code&gt;，找到&lt;code&gt;服务器&lt;/code&gt;，应为下图：&lt;/p&gt;
+&lt;h2 id=&#34;设置-第三方登录&#34;&gt;设置 第三方登录
+&lt;/h2&gt;&lt;p&gt;安装后，点击&lt;code&gt;版本设置&lt;/code&gt;，在侧栏选择&lt;code&gt;设置&lt;/code&gt;，找到&lt;code&gt;服务器&lt;/code&gt;，应为下图：&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://youke1.picui.cn/s1/2025/11/08/690ee2866d5a2.png&#34;
 	
 	
@@ -146,9 +146,9 @@
 	
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;在&lt;code&gt;邮箱&lt;/code&gt;和&lt;code&gt;密码&lt;/code&gt;栏目填入您在&lt;a class=&#34;link&#34; href=&#34;#%e6%b3%a8%e5%86%8c%e8%b4%a6%e5%8f%b7&#34; &gt;注册账号&lt;/a&gt;时填写的&lt;code&gt;电子邮箱&lt;/code&gt;和&lt;code&gt;密码&lt;/code&gt;。&lt;/p&gt;
-&lt;h1 id=&#34;添加服务器&#34;&gt;添加服务器
-&lt;/h1&gt;&lt;p&gt;先点击&lt;code&gt;启动游戏&lt;/code&gt;，之后等待约3到20秒，就会出现游戏窗口，显示如下图的 Forge 加载页面：&lt;/p&gt;
+&lt;p&gt;在&lt;code&gt;邮箱&lt;/code&gt;和&lt;code&gt;密码&lt;/code&gt;栏目填入您在您在 &lt;a class=&#34;link&#34; href=&#34;../register-skin-account&#34; &gt;注册 皮肤站 账号&lt;/a&gt; 时填写的&lt;code&gt;电子邮箱&lt;/code&gt;和&lt;code&gt;密码&lt;/code&gt;。&lt;/p&gt;
+&lt;h2 id=&#34;添加服务器&#34;&gt;添加服务器
+&lt;/h2&gt;&lt;p&gt;先点击&lt;code&gt;启动游戏&lt;/code&gt;，之后等待约3到20秒，就会出现游戏窗口，显示如下图的 Forge 加载页面：&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://youke1.picui.cn/s1/2025/11/21/69207988084bf.png&#34;
 	
 	
@@ -231,10 +231,10 @@
         </item>
         <item>
         <title>游玩教程</title>
-        <link>http://localhost:13269/p/play-tutorial/</link>
+        <link>https://nanyuan.site/p/play-tutorial/</link>
         <pubDate>Fri, 21 Nov 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:13269/p/play-tutorial/</guid>
+        <guid>https://nanyuan.site/p/play-tutorial/</guid>
         <description>&lt;p&gt;你好！欢迎来到 NanYuan 南原 ！&lt;/p&gt;
 &lt;p&gt;无论你从哪里来，我们都来到了这里，一起开始第一天的游玩吧。&lt;/p&gt;
 &lt;ol&gt;
@@ -251,11 +251,11 @@
         </item>
         <item>
         <title>注册 皮肤站 账号</title>
-        <link>http://localhost:13269/p/register-skin-account/</link>
+        <link>https://nanyuan.site/p/register-skin-account/</link>
         <pubDate>Fri, 21 Nov 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:13269/p/register-skin-account/</guid>
-        <description>&lt;img src="http://localhost:13269/p/register-skin-account/wallpaper.png" alt="Featured image of post 注册 皮肤站 账号" /&gt;&lt;p&gt;本篇文章将引导您在&lt;a class=&#34;link&#34; href=&#34;https://skin.nanyuan.site/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+        <guid>https://nanyuan.site/p/register-skin-account/</guid>
+        <description>&lt;img src="https://nanyuan.site/p/register-skin-account/wallpaper.png" alt="Featured image of post 注册 皮肤站 账号" /&gt;&lt;p&gt;本篇文章将引导您在&lt;a class=&#34;link&#34; href=&#34;https://skin.nanyuan.site/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;我们的皮肤站&lt;/a&gt;注册一个账号&lt;/p&gt;
 &lt;p&gt;前往&lt;a class=&#34;link&#34; href=&#34;https://skin.nanyuan.site/auth/register&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;注册页面&lt;/a&gt;后，如果一切正常，你将会看到这样的注册页面：&lt;/p&gt;
@@ -317,26 +317,26 @@
         </item>
         <item>
         <title>归档</title>
-        <link>http://localhost:13269/archives/</link>
+        <link>https://nanyuan.site/archives/</link>
         <pubDate>Sun, 06 Mar 2022 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:13269/archives/</guid>
+        <guid>https://nanyuan.site/archives/</guid>
         <description></description>
         </item>
         <item>
         <title>搜索</title>
-        <link>http://localhost:13269/search/</link>
+        <link>https://nanyuan.site/search/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:13269/search/</guid>
+        <guid>https://nanyuan.site/search/</guid>
         <description></description>
         </item>
         <item>
         <title>资源库</title>
-        <link>http://localhost:13269/resources/</link>
+        <link>https://nanyuan.site/resources/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:13269/resources/</guid>
+        <guid>https://nanyuan.site/resources/</guid>
         <description>&lt;p&gt;欢迎来到资源库！&lt;/p&gt;
 &lt;p&gt;这里存放着一些游玩时需要用到的安装包、模组、工具等。&lt;/p&gt;
 </description>
