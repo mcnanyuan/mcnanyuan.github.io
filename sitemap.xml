@@ -2,40 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://nanyuan.site/</loc>
+    <loc>http://localhost:4347/</loc>
     <lastmod>2025-11-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://nanyuan.site/p/fcl-tutorial/</loc>
+    <loc>http://localhost:4347/p/fcl-tutorial/</loc>
     <lastmod>2025-11-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://nanyuan.site/categories/</loc>
+    <loc>http://localhost:4347/categories/</loc>
     <lastmod>2025-11-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://nanyuan.site/post/</loc>
+    <loc>http://localhost:4347/post/</loc>
     <lastmod>2025-11-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://nanyuan.site/categories/tutorial/</loc>
+    <loc>http://localhost:4347/categories/tutorial/</loc>
     <lastmod>2025-11-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://nanyuan.site/p/pcl-tutorial/</loc>
+    <loc>http://localhost:4347/p/pcl-tutorial/</loc>
     <lastmod>2025-11-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://nanyuan.site/p/play-tutorial/</loc>
+    <loc>http://localhost:4347/p/play-tutorial/</loc>
     <lastmod>2025-11-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://nanyuan.site/p/register-skin-account/</loc>
+    <loc>http://localhost:4347/p/register-skin-account/</loc>
     <lastmod>2025-11-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://nanyuan.site/page/</loc>
+    <loc>http://localhost:4347/page/</loc>
     <lastmod>2022-03-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://nanyuan.site/archives/</loc>
+    <loc>http://localhost:4347/archives/</loc>
     <lastmod>2022-03-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://nanyuan.site/tags/</loc>
+    <loc>http://localhost:4347/tags/</loc>
   </url><url>
-    <loc>https://nanyuan.site/search/</loc>
+    <loc>http://localhost:4347/search/</loc>
   </url><url>
-    <loc>https://nanyuan.site/resources/</loc>
+    <loc>http://localhost:4347/resources/</loc>
   </url>
 </urlset>
