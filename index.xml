@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>NanYuan | 南原</title>
-        <link>http://localhost:4347/</link>
+        <link>http://localhost:5493/</link>
         <description>Recent content on NanYuan | 南原</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
-        <lastBuildDate>Sun, 23 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:4347/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 23 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:5493/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Android (FCL) 安装&amp;游玩教程</title>
-        <link>http://localhost:4347/p/fcl-tutorial/</link>
+        <link>http://localhost:5493/p/fcl-tutorial/</link>
         <pubDate>Sun, 23 Nov 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:4347/p/fcl-tutorial/</guid>
-        <description>&lt;img src="http://localhost:4347/p/fcl-tutorial/wallpaper.png" alt="Featured image of post Android (FCL) 安装&amp;游玩教程" /&gt;&lt;p&gt;本篇文章将引导您在 Android 上游玩我们的服务器。&lt;/p&gt;
+        <guid>http://localhost:5493/p/fcl-tutorial/</guid>
+        <description>&lt;img src="http://localhost:5493/p/fcl-tutorial/wallpaper.png" alt="Featured image of post Android (FCL) 安装&amp;游玩教程" /&gt;&lt;p&gt;本篇文章将引导您在 Android 上游玩我们的服务器。&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;h3&gt;说在前面&lt;/h3&gt;
 &lt;p&gt;Android 端并不适合游玩，建议在 Windows 上游玩。&lt;/p&gt;
@@ -285,11 +285,11 @@
         </item>
         <item>
         <title>Windows (PCL) 安装&amp;游玩教程</title>
-        <link>http://localhost:4347/p/pcl-tutorial/</link>
+        <link>http://localhost:5493/p/pcl-tutorial/</link>
         <pubDate>Fri, 21 Nov 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:4347/p/pcl-tutorial/</guid>
-        <description>&lt;img src="http://localhost:4347/p/pcl-tutorial/wallpaper.jpg" alt="Featured image of post Windows (PCL) 安装&amp;游玩教程" /&gt;&lt;p&gt;本篇文章将引导您在 Windows 上游玩我们的服务器。&lt;/p&gt;
+        <guid>http://localhost:5493/p/pcl-tutorial/</guid>
+        <description>&lt;img src="http://localhost:5493/p/pcl-tutorial/wallpaper.jpg" alt="Featured image of post Windows (PCL) 安装&amp;游玩教程" /&gt;&lt;p&gt;本篇文章将引导您在 Windows 上游玩我们的服务器。&lt;/p&gt;
 &lt;p&gt;在 Windows 上可以使用的官方/非官方启动器有很多，下文将以 &lt;abbr title=&#34;Plain Craft Launcher 2&#34;&gt;PCL2&lt;/abbr&gt; 为例。&lt;/p&gt;
 &lt;h2 id=&#34;准备工作&#34;&gt;准备工作
 &lt;/h2&gt;&lt;h3 id=&#34;安装-pcl2&#34;&gt;安装 PCL2
@@ -508,10 +508,10 @@
         </item>
         <item>
         <title>游玩教程</title>
-        <link>http://localhost:4347/p/play-tutorial/</link>
+        <link>http://localhost:5493/p/play-tutorial/</link>
         <pubDate>Fri, 21 Nov 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:4347/p/play-tutorial/</guid>
+        <guid>http://localhost:5493/p/play-tutorial/</guid>
         <description>&lt;p&gt;你好！欢迎来到 NanYuan 南原 ！&lt;/p&gt;
 &lt;p&gt;无论你从哪里来，我们都来到了这里，一起开始第一天的游玩吧。&lt;/p&gt;
 &lt;ol&gt;
@@ -528,11 +528,11 @@
         </item>
         <item>
         <title>注册 皮肤站 账号</title>
-        <link>http://localhost:4347/p/register-skin-account/</link>
+        <link>http://localhost:5493/p/register-skin-account/</link>
         <pubDate>Fri, 21 Nov 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:4347/p/register-skin-account/</guid>
-        <description>&lt;img src="http://localhost:4347/p/register-skin-account/wallpaper.png" alt="Featured image of post 注册 皮肤站 账号" /&gt;&lt;p&gt;本篇文章将引导您在&lt;a class=&#34;link&#34; href=&#34;https://skin.nanyuan.site/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+        <guid>http://localhost:5493/p/register-skin-account/</guid>
+        <description>&lt;img src="http://localhost:5493/p/register-skin-account/wallpaper.png" alt="Featured image of post 注册 皮肤站 账号" /&gt;&lt;p&gt;本篇文章将引导您在&lt;a class=&#34;link&#34; href=&#34;https://skin.nanyuan.site/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;我们的皮肤站&lt;/a&gt;注册一个账号&lt;/p&gt;
 &lt;p&gt;前往&lt;a class=&#34;link&#34; href=&#34;https://skin.nanyuan.site/auth/register&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;注册页面&lt;/a&gt;后，如果一切正常，你将会看到这样的注册页面：&lt;/p&gt;
@@ -594,26 +594,26 @@
         </item>
         <item>
         <title>归档</title>
-        <link>http://localhost:4347/archives/</link>
+        <link>http://localhost:5493/archives/</link>
         <pubDate>Sun, 06 Mar 2022 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:4347/archives/</guid>
+        <guid>http://localhost:5493/archives/</guid>
         <description></description>
         </item>
         <item>
         <title>搜索</title>
-        <link>http://localhost:4347/search/</link>
+        <link>http://localhost:5493/search/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:4347/search/</guid>
+        <guid>http://localhost:5493/search/</guid>
         <description></description>
         </item>
         <item>
         <title>资源库</title>
-        <link>http://localhost:4347/resources/</link>
+        <link>http://localhost:5493/resources/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:4347/resources/</guid>
+        <guid>http://localhost:5493/resources/</guid>
         <description>&lt;p&gt;欢迎来到资源库！&lt;/p&gt;
 &lt;p&gt;这里存放着一些游玩时需要用到的安装包、模组、工具等。&lt;/p&gt;
 </description>
