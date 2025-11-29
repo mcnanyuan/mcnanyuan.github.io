@@ -33,104 +33,122 @@
 &lt;p&gt;由于不同厂商、不同品牌的Android手机有差异，在此不做详细说明。&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;安装成功后，打开&lt;code&gt;Fold Craft Launcher&lt;/code&gt;，应显示下图：&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://youke1.picui.cn/s1/2025/11/22/6921c8434d2dd.jpg&#34;
-	
-	
+&lt;p&gt;&lt;img src=&#34;https://nanyuan.site/p/fcl-tutorial/fcl-launcher-interface.jpg&#34;
+	width=&#34;2376&#34;
+	height=&#34;1104&#34;
 	
 	loading=&#34;lazy&#34;
 	
-		alt=&#34;Screenshot_20251122_222656_com.tungsten.fcl.jpg&#34;
 	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;215&#34;
+		data-flex-basis=&#34;516px&#34;
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;点击&lt;code&gt;同意并继续&lt;/code&gt;，进入选择 Java 页面，如下图：&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://youke1.picui.cn/s1/2025/11/22/6921c91f89c03.jpg&#34;
-	
-	
+&lt;p&gt;&lt;img src=&#34;https://nanyuan.site/p/fcl-tutorial/fcl-select-java-page.jpg&#34;
+	width=&#34;2376&#34;
+	height=&#34;1104&#34;
 	
 	loading=&#34;lazy&#34;
 	
-		alt=&#34;Screenshot_20251122_223041_com.tungsten.fcl.jpg&#34;
 	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;215&#34;
+		data-flex-basis=&#34;516px&#34;
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;点击&lt;code&gt;安装/更新&lt;/code&gt;，安装/更新完毕后，进入主页面，如下图：&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://youke1.picui.cn/s1/2025/11/22/6921c9878d876.jpg&#34;
-	
-	
+&lt;p&gt;&lt;img src=&#34;https://nanyuan.site/p/fcl-tutorial/fcl-main-page.jpg&#34;
+	width=&#34;2376&#34;
+	height=&#34;1104&#34;
 	
 	loading=&#34;lazy&#34;
 	
-		alt=&#34;Screenshot_20251122_223311_com.tungsten.fcl.jpg&#34;
 	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;215&#34;
+		data-flex-basis=&#34;516px&#34;
 	
 &gt;&lt;/p&gt;
 &lt;h3 id=&#34;下载游戏本体&#34;&gt;下载游戏本体
 &lt;/h3&gt;&lt;p&gt;接下来，选择左边栏从上到下第3个图标（云朵箭头图标），进入下载页面，如下图：&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://youke1.picui.cn/s1/2025/11/22/6921ca52b5cd1.jpg&#34;
-	
-	
+&lt;p&gt;&lt;img src=&#34;https://nanyuan.site/p/fcl-tutorial/fcl-download-page.jpg&#34;
+	width=&#34;2376&#34;
+	height=&#34;1104&#34;
 	
 	loading=&#34;lazy&#34;
 	
-		alt=&#34;Screenshot_20251122_223501_com.tungsten.fcl.jpg&#34;
 	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;215&#34;
+		data-flex-basis=&#34;516px&#34;
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;点击&lt;code&gt;搜索&lt;/code&gt;，输入&lt;code&gt;1.20.1&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://youke1.picui.cn/s1/2025/11/23/6923088b16ff1.jpg&#34;
-	
-	
+&lt;p&gt;&lt;img src=&#34;https://nanyuan.site/p/fcl-tutorial/fcl-search-game-version.jpg&#34;
+	width=&#34;2376&#34;
+	height=&#34;1104&#34;
 	
 	loading=&#34;lazy&#34;
 	
-		alt=&#34;Screenshot_20251123_211257_com.tungsten.fcl.jpg&#34;
 	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;215&#34;
+		data-flex-basis=&#34;516px&#34;
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;点击地球图标，进入如下图页面：&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://youke1.picui.cn/s1/2025/11/23/6923088a36247.jpg&#34;
-	
-	
+&lt;p&gt;&lt;img src=&#34;https://nanyuan.site/p/fcl-tutorial/fcl-select-game-version.jpg&#34;
+	width=&#34;2376&#34;
+	height=&#34;1104&#34;
 	
 	loading=&#34;lazy&#34;
 	
-		alt=&#34;Screenshot_20251123_211302_com.tungsten.fcl.jpg&#34;
 	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;215&#34;
+		data-flex-basis=&#34;516px&#34;
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;点击&lt;code&gt;名称&lt;/code&gt;旁的下载按钮（下箭头），即可开始下载。下载完毕后，应如下图所示：&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://youke1.picui.cn/s1/2025/11/23/6923088844e49.jpg&#34;
-	
-	
+&lt;p&gt;&lt;img src=&#34;https://nanyuan.site/p/fcl-tutorial/fcl-download-completed.jpg&#34;
+	width=&#34;2376&#34;
+	height=&#34;1104&#34;
 	
 	loading=&#34;lazy&#34;
 	
-		alt=&#34;Screenshot_20251123_211322_com.tungsten.fcl.jpg&#34;
 	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;215&#34;
+		data-flex-basis=&#34;516px&#34;
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;点&lt;code&gt;确认&lt;/code&gt;后，应如下图所示：&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://youke1.picui.cn/s1/2025/11/23/6923088b16ff1.jpg&#34;
-	
-	
+&lt;p&gt;&lt;img src=&#34;https://nanyuan.site/p/fcl-tutorial/fcl-search-game-version.jpg&#34;
+	width=&#34;2376&#34;
+	height=&#34;1104&#34;
 	
 	loading=&#34;lazy&#34;
 	
-		alt=&#34;Screenshot_20251123_211257_com.tungsten.fcl.jpg&#34;
 	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;215&#34;
+		data-flex-basis=&#34;516px&#34;
 	
 &gt;&lt;/p&gt;
 &lt;h2 id=&#34;设置-第三方登录&#34;&gt;设置 第三方登录
 &lt;/h2&gt;&lt;p&gt;点击右侧的 Alex 头像，开始配置第三方登录。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://youke1.picui.cn/s1/2025/11/23/6923029f09785.jpg&#34;
-	
-	
+&lt;p&gt;&lt;img src=&#34;https://nanyuan.site/p/fcl-tutorial/fcl-third-party-login-main.jpg&#34;
+	width=&#34;2376&#34;
+	height=&#34;1104&#34;
 	
 	loading=&#34;lazy&#34;
 	
-		alt=&#34;Screenshot_20251122_224726_com.tungsten.fcl.jpg&#34;
 	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;215&#34;
+		data-flex-basis=&#34;516px&#34;
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;点击偏右下的&lt;code&gt;+ 认证服务器&lt;/code&gt;，输入以下内容：&lt;/p&gt;
@@ -142,92 +160,108 @@
 &lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;https://skin.nanyuan.site/api/yggdrasil
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
-&lt;/div&gt;&lt;p&gt;&lt;img src=&#34;https://youke1.picui.cn/s1/2025/11/23/692302aba6b3f.jpg&#34;
-	
-	
+&lt;/div&gt;&lt;p&gt;&lt;img src=&#34;https://nanyuan.site/p/fcl-tutorial/fcl-add-auth-server.jpg&#34;
+	width=&#34;2376&#34;
+	height=&#34;1104&#34;
 	
 	loading=&#34;lazy&#34;
 	
-		alt=&#34;Screenshot_20251122_224808_com.tungsten.fcl.jpg&#34;
 	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;215&#34;
+		data-flex-basis=&#34;516px&#34;
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;点&lt;code&gt;下一步&lt;/code&gt;后，&lt;strong&gt;等待一会儿&lt;/strong&gt;，会跳出如下界面：&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://youke1.picui.cn/s1/2025/11/23/69230bfc8a568.jpg&#34;
-	
-	
+&lt;p&gt;&lt;img src=&#34;https://nanyuan.site/p/fcl-tutorial/fcl-auth-server-success.jpg&#34;
+	width=&#34;2376&#34;
+	height=&#34;1104&#34;
 	
 	loading=&#34;lazy&#34;
 	
-		alt=&#34;Screenshot_20251123_212844_com.tungsten.fcl.jpg&#34;
 	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;215&#34;
+		data-flex-basis=&#34;516px&#34;
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;点&lt;code&gt;确认&lt;/code&gt;后，应如下图所示：&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://youke1.picui.cn/s1/2025/11/23/69230c79ddc07.jpg&#34;
-	
-	
+&lt;p&gt;&lt;img src=&#34;https://nanyuan.site/p/fcl-tutorial/fcl-auth-server-config-completed.jpg&#34;
+	width=&#34;2376&#34;
+	height=&#34;1104&#34;
 	
 	loading=&#34;lazy&#34;
 	
-		alt=&#34;Screenshot_20251123_213056_com.tungsten.fcl.jpg&#34;
 	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;215&#34;
+		data-flex-basis=&#34;516px&#34;
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;点击&lt;code&gt;NanYua...&lt;/code&gt;，创建外置账户，如下图所示：&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://youke1.picui.cn/s1/2025/11/23/692302c747ef0.jpg&#34;
-	
-	
+&lt;p&gt;&lt;img src=&#34;https://nanyuan.site/p/fcl-tutorial/fcl-select-auth-server.jpg&#34;
+	width=&#34;2376&#34;
+	height=&#34;1104&#34;
 	
 	loading=&#34;lazy&#34;
 	
-		alt=&#34;Screenshot_20251122_224832_com.tungsten.fcl.jpg&#34;
 	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;215&#34;
+		data-flex-basis=&#34;516px&#34;
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;在此填入您在 &lt;a class=&#34;link&#34; href=&#34;../register-skin-account&#34; &gt;注册 皮肤站 账号&lt;/a&gt; 时填写的&lt;code&gt;游戏内角色名&lt;/code&gt;和&lt;code&gt;密码&lt;/code&gt;。&lt;/p&gt;
 &lt;p&gt;填写完毕后，&lt;strong&gt;等待一会儿&lt;/strong&gt;，应显示下图：&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://youke1.picui.cn/s1/2025/11/23/692302ceb4ebb.jpg&#34;
-	
-	
+&lt;p&gt;&lt;img src=&#34;https://nanyuan.site/p/fcl-tutorial/fcl-login-success.jpg&#34;
+	width=&#34;2376&#34;
+	height=&#34;1104&#34;
 	
 	loading=&#34;lazy&#34;
 	
-		alt=&#34;Screenshot_20251122_224909_com.tungsten.fcl.jpg&#34;
 	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;215&#34;
+		data-flex-basis=&#34;516px&#34;
 	
 &gt;&lt;/p&gt;
 &lt;h2 id=&#34;添加服务器&#34;&gt;添加服务器
 &lt;/h2&gt;&lt;p&gt;现在点左侧的&lt;code&gt;启动&lt;/code&gt;进入游戏，分别会闪过&lt;strong&gt;包括但不限于&lt;/strong&gt;以下界面：&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://youke1.picui.cn/s1/2025/11/23/692302d22879c.jpg&#34;
-	
-	
+&lt;p&gt;&lt;img src=&#34;https://nanyuan.site/p/fcl-tutorial/minecraft-launcher-interface.jpg&#34;
+	width=&#34;2376&#34;
+	height=&#34;1104&#34;
 	
 	loading=&#34;lazy&#34;
 	
-		alt=&#34;Screenshot_20251122_224935_com.tungsten.fcl.jpg&#34;
 	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;215&#34;
+		data-flex-basis=&#34;516px&#34;
 	
 &gt;
-&lt;img src=&#34;https://youke1.picui.cn/s1/2025/11/23/692302e856687.jpg&#34;
-	
-	
+&lt;img src=&#34;https://nanyuan.site/p/fcl-tutorial/minecraft-main-menu.jpg&#34;
+	width=&#34;2376&#34;
+	height=&#34;1104&#34;
 	
 	loading=&#34;lazy&#34;
 	
-		alt=&#34;Screenshot_20251122_224942_com.tungsten.fcl.jpg&#34;
 	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;215&#34;
+		data-flex-basis=&#34;516px&#34;
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;点击&lt;code&gt;多人游戏&lt;/code&gt;，应显示下图：&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://youke1.picui.cn/s1/2025/11/23/692302e6cba0e.jpg&#34;
-	
-	
+&lt;p&gt;&lt;img src=&#34;https://nanyuan.site/p/fcl-tutorial/minecraft-multiplayer.jpg&#34;
+	width=&#34;2376&#34;
+	height=&#34;1104&#34;
 	
 	loading=&#34;lazy&#34;
 	
-		alt=&#34;Screenshot_20251122_224955_com.tungsten.fcl.jpg&#34;
 	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;215&#34;
+		data-flex-basis=&#34;516px&#34;
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;点击&lt;code&gt;添加服务器&lt;/code&gt;，并按下表填写：&lt;/p&gt;
@@ -259,25 +293,29 @@
 &lt;p&gt;输入完毕后，点任意非键盘处回到游戏页面。&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;填写完毕后，应如下图：&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://youke1.picui.cn/s1/2025/11/23/692302f077b6a.jpg&#34;
-	
-	
+&lt;p&gt;&lt;img src=&#34;https://nanyuan.site/p/fcl-tutorial/minecraft-add-server.jpg&#34;
+	width=&#34;2376&#34;
+	height=&#34;1104&#34;
 	
 	loading=&#34;lazy&#34;
 	
-		alt=&#34;Screenshot_20251122_225040_com.tungsten.fcl.jpg&#34;
 	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;215&#34;
+		data-flex-basis=&#34;516px&#34;
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;点击&lt;code&gt;完成&lt;/code&gt;，回到 多人游戏 界面，应显示下图：&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://youke1.picui.cn/s1/2025/11/23/692302f09bacc.jpg&#34;
-	
-	
+&lt;p&gt;&lt;img src=&#34;https://nanyuan.site/p/fcl-tutorial/minecraft-server-list.jpg&#34;
+	width=&#34;2376&#34;
+	height=&#34;1104&#34;
 	
 	loading=&#34;lazy&#34;
 	
-		alt=&#34;Screenshot_20251122_225046_com.tungsten.fcl.jpg&#34;
 	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;215&#34;
+		data-flex-basis=&#34;516px&#34;
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;点击 &lt;em&gt;原&lt;/em&gt; 字图标即可进入服务器。&lt;/p&gt;
@@ -302,69 +340,79 @@
 &lt;p&gt;我们强烈建议您单独在某个不为系统盘的磁盘内新建文件夹以存放 PCL2 本体（如&lt;code&gt;D:\PCL2&lt;/code&gt;），因为 PCL2 在运行时会产生大量的文件夹（如&lt;code&gt;.minecraft&lt;/code&gt;）在它的统计目录，难以整理。&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;解压后，双击运行&lt;code&gt;Plain Craft Launcher 2&lt;/code&gt;，此时应当显示 PCL2 图标，之后显示主页,如下图：&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://youke1.picui.cn/s1/2025/11/06/690c9ef91afc1.png&#34;
-	
-	
+&lt;p&gt;&lt;img src=&#34;https://nanyuan.site/p/pcl-tutorial/pcl-original.png&#34;
+	width=&#34;832&#34;
+	height=&#34;502&#34;
 	
 	loading=&#34;lazy&#34;
 	
-		alt=&#34;1762434847970.png&#34;
 	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;165&#34;
+		data-flex-basis=&#34;397px&#34;
 	
 &gt;&lt;/p&gt;
 &lt;h3 id=&#34;安装-xplus-整合包&#34;&gt;安装 XPlus 整合包
 &lt;/h3&gt;&lt;p&gt;接下来，请前往&lt;a class=&#34;link&#34; href=&#34;https://www.123865.com/s/T7TXvd-z7i3A&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;此链接&lt;/a&gt;下载 XPlus 1.20.1 整合包 。&lt;/p&gt;
 &lt;p&gt;下载完毕后，直接将整合包拖入打开的 PCL2 窗口。如果正常，它会提示你正在安装 MCBBS 整合包，如下图：&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://youke1.picui.cn/s1/2025/11/21/6920763d3411e.png&#34;
-	
-	
+&lt;p&gt;&lt;img src=&#34;https://nanyuan.site/p/pcl-tutorial/xplus-downloading.png&#34;
+	width=&#34;864&#34;
+	height=&#34;514&#34;
 	
 	loading=&#34;lazy&#34;
 	
-		alt=&#34;1763735144062.png&#34;
 	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;168&#34;
+		data-flex-basis=&#34;403px&#34;
 	
 &gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;如果 PCL2 提示你是否要安装 Java ，请一定点&lt;code&gt;确定&lt;/code&gt;，否则可能导致后面的步骤错误。&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;安装完成后，应显示下图：&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://youke1.picui.cn/s1/2025/11/21/6920771a792ce.png&#34;
-	
-	
+&lt;p&gt;&lt;img src=&#34;https://nanyuan.site/p/pcl-tutorial/xplus-installed.png&#34;
+	width=&#34;864&#34;
+	height=&#34;514&#34;
 	
 	loading=&#34;lazy&#34;
 	
-		alt=&#34;1763735365158.png&#34;
 	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;168&#34;
+		data-flex-basis=&#34;403px&#34;
 	
 &gt;&lt;/p&gt;
 &lt;h3 id=&#34;安装-optifine-模组&#34;&gt;安装 OptiFine 模组
 &lt;/h3&gt;&lt;p&gt;接下来前往&lt;a class=&#34;link&#34; href=&#34;https://www.123865.com/s/T7TXvd-L7i3A&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;此链接&lt;/a&gt;下载 OptiFine 模组 。&lt;/p&gt;
 &lt;p&gt;下载完毕后，直接将文件拖入打开的 PCL2 窗口。如果正常，它会提示你是否安装 Mod ，如下图：&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://youke1.picui.cn/s1/2025/11/21/6920784169f21.png&#34;
-	
-	
+&lt;p&gt;&lt;img src=&#34;https://nanyuan.site/p/pcl-tutorial/mod-install.png&#34;
+	width=&#34;864&#34;
+	height=&#34;514&#34;
 	
 	loading=&#34;lazy&#34;
 	
-		alt=&#34;1763735660099.png&#34;
 	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;168&#34;
+		data-flex-basis=&#34;403px&#34;
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;点&lt;code&gt;确定&lt;/code&gt;安装。&lt;/p&gt;
 &lt;h2 id=&#34;设置-第三方登录&#34;&gt;设置 第三方登录
 &lt;/h2&gt;&lt;p&gt;安装后，点击&lt;code&gt;版本设置&lt;/code&gt;，在侧栏选择&lt;code&gt;设置&lt;/code&gt;，找到&lt;code&gt;服务器&lt;/code&gt;，应为下图：&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://youke1.picui.cn/s1/2025/11/08/690ee2866d5a2.png&#34;
-	
-	
+&lt;p&gt;&lt;img src=&#34;https://nanyuan.site/p/pcl-tutorial/server-setting.png&#34;
+	width=&#34;676&#34;
+	height=&#34;128&#34;
 	
 	loading=&#34;lazy&#34;
 	
-		alt=&#34;1762583214337.png&#34;
 	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;528&#34;
+		data-flex-basis=&#34;1267px&#34;
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;将&lt;code&gt;登录方式&lt;/code&gt;改为&lt;code&gt;第三方登录：Authlib Injector 或 LittleSkin&lt;/code&gt;，之后按下表填写：&lt;/p&gt;
@@ -399,63 +447,73 @@
   &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;p&gt;填写完毕后应如下图：&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://youke1.picui.cn/s1/2025/11/08/690f01da36f79.png&#34;
-	
-	
+&lt;p&gt;&lt;img src=&#34;https://nanyuan.site/p/pcl-tutorial/server-example.png&#34;
+	width=&#34;680&#34;
+	height=&#34;293&#34;
 	
 	loading=&#34;lazy&#34;
 	
-		alt=&#34;1762591235487.png&#34;
 	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;232&#34;
+		data-flex-basis=&#34;556px&#34;
 	
 &gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;请不要点&lt;code&gt;设置为 LittleSkin&lt;/code&gt;，这将导致后面的步骤错误&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;之后直接按左上角左箭头返回主页，应显示下图：&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://youke1.picui.cn/s1/2025/11/21/692078fa7c38b.png&#34;
-	
-	
+&lt;p&gt;&lt;img src=&#34;https://nanyuan.site/p/pcl-tutorial/server-login.png&#34;
+	width=&#34;864&#34;
+	height=&#34;514&#34;
 	
 	loading=&#34;lazy&#34;
 	
-		alt=&#34;1763735845015.png&#34;
 	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;168&#34;
+		data-flex-basis=&#34;403px&#34;
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;在&lt;code&gt;邮箱&lt;/code&gt;和&lt;code&gt;密码&lt;/code&gt;栏目填入您在您在 &lt;a class=&#34;link&#34; href=&#34;../register-skin-account&#34; &gt;注册 皮肤站 账号&lt;/a&gt; 时填写的&lt;code&gt;电子邮箱&lt;/code&gt;和&lt;code&gt;密码&lt;/code&gt;。&lt;/p&gt;
 &lt;h2 id=&#34;添加服务器&#34;&gt;添加服务器
 &lt;/h2&gt;&lt;p&gt;先点击&lt;code&gt;启动游戏&lt;/code&gt;，之后等待约3到20秒，就会出现游戏窗口，显示如下图的 Forge 加载页面：&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://youke1.picui.cn/s1/2025/11/21/69207988084bf.png&#34;
-	
-	
+&lt;p&gt;&lt;img src=&#34;https://nanyuan.site/p/pcl-tutorial/forge-loading.png&#34;
+	width=&#34;856&#34;
+	height=&#34;512&#34;
 	
 	loading=&#34;lazy&#34;
 	
-		alt=&#34;1763735987503.png&#34;
 	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;167&#34;
+		data-flex-basis=&#34;401px&#34;
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;再等待一会儿，就会进入游戏主菜单，如下图：&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://youke1.picui.cn/s1/2025/11/21/692079c1273a6.png&#34;
-	
-	
+&lt;p&gt;&lt;img src=&#34;https://nanyuan.site/p/pcl-tutorial/forge-main-menu.png&#34;
+	width=&#34;856&#34;
+	height=&#34;512&#34;
 	
 	loading=&#34;lazy&#34;
 	
-		alt=&#34;1763736039668.png&#34;
 	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;167&#34;
+		data-flex-basis=&#34;401px&#34;
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;点击&lt;code&gt;多人游戏&lt;/code&gt;，应显示下图：&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://youke1.picui.cn/s1/2025/11/21/692079eb4397f.png&#34;
-	
-	
+&lt;p&gt;&lt;img src=&#34;https://nanyuan.site/p/pcl-tutorial/forge-multiplayer.png&#34;
+	width=&#34;856&#34;
+	height=&#34;512&#34;
 	
 	loading=&#34;lazy&#34;
 	
-		alt=&#34;1763736083551.png&#34;
 	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;167&#34;
+		data-flex-basis=&#34;401px&#34;
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;点击&lt;code&gt;添加服务器&lt;/code&gt;，并按下表填写：&lt;/p&gt;
@@ -482,25 +540,29 @@
   &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;p&gt;填写完毕后，应如下图：&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://youke1.picui.cn/s1/2025/11/21/69207a3c7b1c0.png&#34;
-	
-	
+&lt;p&gt;&lt;img src=&#34;https://nanyuan.site/p/pcl-tutorial/forge-server-info.png&#34;
+	width=&#34;856&#34;
+	height=&#34;512&#34;
 	
 	loading=&#34;lazy&#34;
 	
-		alt=&#34;1763736164486.png&#34;
 	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;167&#34;
+		data-flex-basis=&#34;401px&#34;
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;点击&lt;code&gt;完成&lt;/code&gt;，回到 多人游戏 界面，应显示下图：&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://youke1.picui.cn/s1/2025/11/21/69207a47e99fb.png&#34;
-	
-	
+&lt;p&gt;&lt;img src=&#34;https://nanyuan.site/p/pcl-tutorial/forge-server-complete.png&#34;
+	width=&#34;856&#34;
+	height=&#34;512&#34;
 	
 	loading=&#34;lazy&#34;
 	
-		alt=&#34;1763736175760.png&#34;
 	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;167&#34;
+		data-flex-basis=&#34;401px&#34;
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;点击 &lt;em&gt;原&lt;/em&gt; 字图标即可进入服务器。&lt;/p&gt;
@@ -536,14 +598,16 @@
     &gt;我们的皮肤站&lt;/a&gt;注册一个账号&lt;/p&gt;
 &lt;p&gt;前往&lt;a class=&#34;link&#34; href=&#34;https://skin.nanyuan.site/auth/register&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;注册页面&lt;/a&gt;后，如果一切正常，你将会看到这样的注册页面：&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://youke1.picui.cn/s1/2025/11/06/690c996c1bcec.png&#34;
-	
-	
+&lt;p&gt;&lt;img src=&#34;https://nanyuan.site/p/register-skin-account/skin-site-register-page.png&#34;
+	width=&#34;403&#34;
+	height=&#34;513&#34;
 	
 	loading=&#34;lazy&#34;
 	
-		alt=&#34;1762433425664.png&#34;
 	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;78&#34;
+		data-flex-basis=&#34;188px&#34;
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;填写时，您&lt;strong&gt;必须&lt;/strong&gt;遵守下方的要求。&lt;/p&gt;
@@ -578,14 +642,16 @@
   &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;p&gt;提示注册成功后，应会在主页提示&lt;em&gt;验证你的邮箱地址&lt;/em&gt;，如下图：&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://youke1.picui.cn/s1/2025/11/06/690c9c49990a1.png&#34;
-	
-	
+&lt;p&gt;&lt;img src=&#34;https://nanyuan.site/p/register-skin-account/skin-site-email-validation-page.png&#34;
+	width=&#34;956&#34;
+	height=&#34;108&#34;
 	
 	loading=&#34;lazy&#34;
 	
-		alt=&#34;1762434158778.png&#34;
 	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;885&#34;
+		data-flex-basis=&#34;2124px&#34;
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;您&lt;strong&gt;必须完成邮箱验证&lt;/strong&gt;，才能继续使用皮肤站的服务。&lt;/p&gt;
