@@ -231,7 +231,7 @@ unicode: "f07c"
 </aside>
 
             <main class="main full-width">
-    <style>
+<style>
      
     .mc-status {
          
@@ -248,9 +248,7 @@ unicode: "f07c"
         --card-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
         --status-online: #28a745;
         --status-offline: #dc3545;
-        --player-bg: rgba(40, 167, 69, 0.1);
-        --player-border: rgba(40, 167, 69, 0.2);
-        --motd-border: #28a745;
+        --player-bg: var(--bg-tertiary);
         --latency-excellent: #4caf50;
         --latency-good: #9ccc65;
         --latency-fair: #ffc107;
@@ -261,11 +259,11 @@ unicode: "f07c"
      
     [data-scheme="dark"] .mc-status {
         --bg-primary: #121212;
-        --bg-secondary: #1e1e1e;
-        --bg-tertiary: #2d2d2d;
+        --bg-secondary: #424242;
+        --bg-tertiary: #555;
         --text-primary: #f8f9fa;
         --text-secondary: #adb5bd;
-        --text-muted: #6c757d;
+        --text-muted: #adb5bd;
         --accent-color: #4CAF50;
         --accent-hover: #45a049;
         --border-color: #444;
@@ -273,9 +271,6 @@ unicode: "f07c"
         --card-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
         --status-online: #4CAF50;
         --status-offline: #f44336;
-        --player-bg: rgba(76, 175, 80, 0.1);
-        --player-border: rgba(76, 175, 80, 0.2);
-        --motd-border: #4CAF50;
     }
 
      
@@ -288,17 +283,18 @@ unicode: "f07c"
 
     .mc-status {
         color: var(--text-primary);
-        min-height: 100vh;
+        min-height: auto;
         line-height: 1.6;
     }
 
     .mc-status .mc-status-fullscreen {
-        min-height: 100vh;
         display: flex;
         flex-direction: column;
         padding: 2rem;
         max-width: 1400px;
         margin: 0 auto;
+        justify-content: flex-start;
+        height: auto;
     }
 
      
@@ -315,19 +311,11 @@ unicode: "f07c"
     .mc-status .status-header h1 {
         font-size: 3rem;
         margin-bottom: 0.5rem;
-        color: var(--accent-color);
-        text-shadow: 0 2px 10px rgba(40, 167, 69, 0.2);
+
     }
 
     [data-scheme="dark"] .mc-status .status-header h1 {
-        text-shadow: 0 2px 10px rgba(76, 175, 80, 0.3);
-    }
-
-    .mc-status .server-address {
-        font-size: 1.5rem;
-        color: var(--text-secondary);
-        font-family: monospace;
-        margin-top: 0.5rem;
+        color: var(--card-text-color-main);
     }
 
      
@@ -335,6 +323,7 @@ unicode: "f07c"
         display: grid;
         grid-template-columns: 1fr 1fr;
         gap: 2rem;
+        flex: 0 0 auto;
     }
 
     @media (max-width: 992px) {
@@ -360,13 +349,23 @@ unicode: "f07c"
         box-shadow: var(--shadow);
     }
 
+    .mc-status .card-header {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin-bottom: 1.5rem;
+    }
+
     .mc-status .card-title {
         font-size: 1.5rem;
-        margin-bottom: 1.5rem;
-        color: var(--accent-color);
+        color: var(--card-text-color-secondary);
         display: flex;
         align-items: center;
         gap: 10px;
+    }
+
+    .mc-status .refresh-btn.inline {
+        font-size: 1.5rem;
     }
 
     .mc-status .card-title i {
@@ -514,7 +513,6 @@ unicode: "f07c"
         background: var(--bg-tertiary);
         padding: 1.5rem;
         border-radius: 10px;
-        border-left: 4px solid var(--motd-border);
         white-space: pre-line;
         line-height: 1.5;
         font-family: 'Courier New', monospace;
@@ -536,14 +534,14 @@ unicode: "f07c"
         background: var(--player-bg);
         padding: 0.7rem 1rem;
         border-radius: 8px;
-        font-size: 0.9rem;
+        font-size: 1.3rem;
         text-align: center;
-        border: 1px solid var(--player-border);
         transition: transform 0.2s;
+        font-weight: 500;
     }
 
     .mc-status .player-tag:hover {
-        transform: scale(1.05);
+        transform: scale(1.025);
     }
 
      
@@ -557,22 +555,22 @@ unicode: "f07c"
     }
 
     .mc-status .refresh-btn {
-        background: var(--accent-color);
-        color: white;
+        background: var(--bg-tertiary);
+        color: var(--text-primary);
         border: none;
-        padding: 1rem 2rem;
+        padding: 1.2rem 2.5rem;
         border-radius: 8px;
         cursor: pointer;
         display: flex;
         align-items: center;
         gap: 10px;
         transition: all 0.3s;
-        font-size: 1.1rem;
-        font-weight: 500;
+        font-size: 1.3rem;
+        font-weight: 600;
     }
 
     .mc-status .refresh-btn:hover {
-        background: var(--accent-hover);
+        background: var(--bg-tertiary);
         transform: translateY(-2px);
         box-shadow: var(--shadow);
     }
@@ -640,7 +638,7 @@ unicode: "f07c"
     }
 
     .mc-status ::-webkit-scrollbar-thumb {
-        background: var(--accent-color);
+        background: var(--bg-secondary);
         border-radius: 10px;
         opacity: 0.5;
     }
@@ -665,15 +663,22 @@ unicode: "f07c"
 
 <main class="mc-status">
     <div class="mc-status-fullscreen">
-        <div class="status-header">
-            <h1>服务器状态</h1>
-            <div class="server-address">play.nanyuan.site</div>
+        <div class="status-header" style="display: flex; justify-content: space-between; align-items: center;">
+            <div style="display: flex; align-items: center; gap: 1rem;">
+                <h1>服务器状态</h1>
+            </div>
+            <button id="refreshBtn" class="refresh-btn inline">
+                <span class="btn-text">刷新</span>
+                <span class="btn-loader" style="display: none;">⟳</span>
+            </button>
         </div>
 
         <div class="status-grid">
             <div class="status-card">
-                <div class="card-title">
-                    服务器信息
+                <div class="card-header">
+                    <div class="card-title">
+                        服务器信息
+                    </div>
                 </div>
                 <div class="server-status-container" id="serverStatusContainer">
                     <div class="server-icon-container" id="serverIconContainer">
@@ -711,10 +716,6 @@ unicode: "f07c"
                     <div class="motd" id="motdText">正在加载...</div>
                 </div>
                 <div class="action-bar">
-                    <button id="refreshBtn" class="refresh-btn">
-                        <span class="btn-text">刷新状态</span>
-                        <span class="btn-loader" style="display: none;">⟳</span>
-                    </button>
                     <div class="last-updated">
                         最后检查：<span id="lastUpdated">刚刚</span>
                     </div>
@@ -722,14 +723,14 @@ unicode: "f07c"
             </div>
 
             <div class="status-card">
-                <div class="card-title">
-                    <i>👥</i> 在线玩家
+                <div class="card-header">
+                    <div class="card-title">
+                        在线玩家
+                    </div>
                 </div>
-
                 <div class="players-container" id="playersContainer">
-                    <div class="section-title">在线玩家</div>
                     <div id="playersList" class="players-list">
-                        <div class="empty-state">没有玩家在线或玩家列表被隐藏</div>
+                        <div class="empty-state">没有玩家在线</div>
                     </div>
                 </div>
             </div>
@@ -811,7 +812,7 @@ unicode: "f07c"
             } else {
                 
                 elements.serverIconContainer.innerHTML = `
-                    <div class="server-icon-wrapper" style="background: var(--accent-color);">
+                    <div class="server-icon-wrapper" style="background: var(--bg-tertiary);">
                         <div class="server-icon-overlay"><div style="color: white; font-size: 3rem;">⛏️</div></div>
                     </div>
                 `;
@@ -840,7 +841,7 @@ unicode: "f07c"
                         elements.playersList.appendChild(playerElement);
                     });
                 } else {
-                    elements.playersList.innerHTML = '<div class="empty-state">没有玩家在线或玩家列表被隐藏</div>';
+                    elements.playersList.innerHTML = '<div class="empty-state">没有玩家在线</div>';
                 }
             } else {
                 elements.playersText.textContent = '0/0';
@@ -942,13 +943,11 @@ unicode: "f07c"
     init();
 </script>
 
-    
 
-    <footer class="site-footer">
+
+<footer class="site-footer">
     <section class="copyright">
         &copy; 
-        
-            2020 - 
         
         2025 NanYuan | 南原
     </section>
