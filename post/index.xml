@@ -6,7 +6,107 @@
         <description>Recent content in Posts on NanYuan | 南原</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
-        <lastBuildDate>Sun, 23 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://nanyuan.site/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 01 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://nanyuan.site/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>自定义皮肤</title>
+        <link>https://nanyuan.site/p/custom-skin/</link>
+        <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://nanyuan.site/p/custom-skin/</guid>
+        <description>&lt;img src="https://nanyuan.site/p/custom-skin/wallpaper.png" alt="Featured image of post 自定义皮肤" /&gt;&lt;p&gt;本篇文章将引导您自定义您在 NanYuan | 南原 服务器的皮肤。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;h3&gt;说在前面&lt;/h3&gt;
+&lt;p&gt;在阅读此文章前，先确保您已经拥有皮肤的原图片，且已经 &lt;a class=&#34;link&#34; href=&#34;../register-skin-account&#34; &gt;注册 皮肤站 账号&lt;/a&gt;。&lt;/p&gt;
+&lt;p&gt;本服务器支持上传皮肤和披风，下文将仅讲解上传皮肤的方式，上传披风的方式与上传皮肤类似。&lt;/p&gt;
+&lt;p&gt;如果您没有原图片，您可以通过以下推荐的两个网站进行自定义皮肤下载、定制或创作：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://littleskin.cn/skinlib&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;LittleSkin 皮肤库&lt;/a&gt; 该网站皮肤库可供下载使用&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://custom.littleskin.cn/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;LittleSkin 皮肤定制&lt;/a&gt; 该网站提供皮肤定制功能（88 CNY，还需先行注册 LittleSkin 账号）&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://skinmc.net/skin-editor&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Minecraft Skin Editor - SkinMC&lt;/a&gt; 该网站支持在线编辑皮肤和披风，且无需注册账号&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;一张可以使用的皮肤图片，应是一张64x64的PNG图像，下图为一个示例(dummy.png)&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://nanyuan.site/p/custom-skin/dummy.png&#34;
+	width=&#34;64&#34;
+	height=&#34;64&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;dummy.png&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;100&#34;
+		data-flex-basis=&#34;240px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://nanyuan.site/p/custom-skin/dummy-show.png&#34;
+	width=&#34;53&#34;
+	height=&#34;119&#34;
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;在游戏中将显示为&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;44&#34;
+		data-flex-basis=&#34;106px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;现在，前往 &lt;a class=&#34;link&#34; href=&#34;https://skin.nanyuan.site/user/closet&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;我的衣柜 - 皮肤站&lt;/a&gt;，如下图：&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://nanyuan.site/p/custom-skin/closet-example.png&#34;
+	width=&#34;1912&#34;
+	height=&#34;932&#34;
+	
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;205&#34;
+		data-flex-basis=&#34;492px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;点击 上传材质 按钮，或点&lt;a class=&#34;link&#34; href=&#34;https://skin.nanyuan.site/skinlib/upload&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;这里&lt;/a&gt;，如下图，之后填写皮肤信息。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://nanyuan.site/p/custom-skin/upload-example.png&#34;
+	width=&#34;1912&#34;
+	height=&#34;932&#34;
+	
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;205&#34;
+		data-flex-basis=&#34;492px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;请不要上传包含包括但不限于政治（包括但不限于任何国家的领导人肖像、国旗、货币等）、色情（包括像素裸体）等敏感内容的材质，即使是擦边球也不允许。如果你一定要上传这类材质，请将材质设为私密，否则你的账号可能会被永久封禁。&lt;/p&gt;
+&lt;p&gt;是否设置为私密取决于您的个人意愿，如果您设置为私密，没有人除了管理员可以查看您的材质。&lt;/p&gt;
+&lt;p&gt;材质名称应该小于 32 个字节且不能包含奇怪的符号&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;填写完毕后，点击 确认上传 按钮，等待上传完成，上传完成后，您会看到类似如下界面：&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://nanyuan.site/p/custom-skin/skin-example.png&#34;
+	width=&#34;1912&#34;
+	height=&#34;932&#34;
+	
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;205&#34;
+		data-flex-basis=&#34;492px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;点击 立即使用 ，选择您的用户名，即可将皮肤应用到您的游戏中。&lt;/p&gt;
+&lt;p&gt;如果您希望您的头像也使用这个皮肤，点击 设为头像 按钮，确定后，刷新网页，您的皮肤站头像也将应用该皮肤。&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>Android (FCL) 安装&amp;游玩教程</title>
         <link>https://nanyuan.site/p/fcl-tutorial/</link>
         <pubDate>Sun, 23 Nov 2025 00:00:00 +0000</pubDate>
@@ -584,7 +684,12 @@
 &lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;../fcl-tutorial&#34; &gt;Android (FCL)&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/li&gt;
-&lt;li&gt;正在施工🚧&amp;hellip;&amp;hellip;&lt;/li&gt;
+&lt;li&gt;开始游玩！
+&lt;ol&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;../custom-skin&#34; &gt;自定义皮肤&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;🚧正在施工&amp;hellip;&amp;hellip;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
 &lt;/ol&gt;
 </description>
         </item>
