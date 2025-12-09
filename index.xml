@@ -6,7 +6,98 @@
         <description>Recent content on NanYuan | 南原</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
-        <lastBuildDate>Mon, 01 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://nanyuan.site/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Fri, 05 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://nanyuan.site/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>南原法典</title>
+        <link>https://nanyuan.site/law/</link>
+        <pubDate>Fri, 05 Dec 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://nanyuan.site/law/</guid>
+        <description>&lt;h2 id=&#34;第一章-总则&#34;&gt;第一章 总则
+&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;第一条&lt;/strong&gt; 为维护健康、文明、和谐的网络游戏环境，保障玩家合法权益，依据《中华人民共和国网络安全法》、《互联网信息服务管理办法》等法律法规，结合本服务器实际情况，制定本规定。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;第二条&lt;/strong&gt; 本服务器运行于Paper 1.20.1核心，并使用CoreProtect插件进行全服行为日志记录。所有玩家行为均可能被记录、存储并作为违规处理依据。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;第三条&lt;/strong&gt; 所有玩家进入服务器即视为已阅读、理解并同意遵守本规定及中华人民共和国全部适用法律法规。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;第二章-基本行为准则&#34;&gt;第二章 基本行为准则
+&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;第四条 严禁行为&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;政治与国家安全&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;禁止使用、传播任何破坏国家统一、主权和领土完整的符号、名称、建筑。&lt;/li&gt;
+&lt;li&gt;禁止宣扬恐怖主义、极端主义。&lt;/li&gt;
+&lt;li&gt;禁止歪曲党史、国史、军史，侮辱英烈。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;暴力与非法内容&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;禁止建造、传播具有血腥、暴力、淫秽色情的建筑或内容。&lt;/li&gt;
+&lt;li&gt;禁止组织或宣扬赌博、毒品、自杀等违法活动。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;社会公德&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;禁止基于种族、民族、地域、性别、宗教的歧视与仇恨言论。&lt;/li&gt;
+&lt;li&gt;禁止恶意人身攻击、人肉搜索、骚扰他人。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;游戏内行为&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;禁止使用外挂、作弊客户端、利用游戏漏洞获取不公平优势。&lt;/li&gt;
+&lt;li&gt;禁止恶意破坏他人建筑、物品（适用CoreProtect回滚与追责）。&lt;/li&gt;
+&lt;li&gt;禁止恶意占用公共资源、卡服、刷屏等影响服务器稳定的行为。&lt;/li&gt;
+&lt;li&gt;禁止盗取他人账号、物品（虚拟财产受服务器保护）。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;商业与诈骗&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;禁止未经许可的第三方现金交易、账号买卖。&lt;/li&gt;
+&lt;li&gt;禁止虚假宣传、诈骗、诱骗玩家财物。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;第五条 文明行为倡导&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;友善交流，互帮互助，共同维护社区氛围。&lt;/li&gt;
+&lt;li&gt;建筑风格尽量与周边环境协调，大型建筑请提前与管理员或邻居沟通。&lt;/li&gt;
+&lt;li&gt;资源采集遵守“谁开采谁修复”原则，减少地形破坏。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;第三章-证据管理与违规处理&#34;&gt;第三章 证据管理与违规处理
+&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;第六条 CoreProtect插件说明&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;本服务器安装CoreProtect，可记录：方块放置/破坏、容器存取、物品丢弃、玩家交互等。&lt;/li&gt;
+&lt;li&gt;所有记录均包含时间、坐标、玩家ID、详情，并作为违规行为&lt;strong&gt;唯一可信证据&lt;/strong&gt;。&lt;/li&gt;
+&lt;li&gt;玩家可申请查询自身相关记录，但无权删除或修改。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;第七条 违规举报与处理流程&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;举报需提供：
+&lt;ul&gt;
+&lt;li&gt;涉事玩家ID&lt;/li&gt;
+&lt;li&gt;事发时间（游戏内或现实时间）&lt;/li&gt;
+&lt;li&gt;事发坐标（可截图F3信息）&lt;/li&gt;
+&lt;li&gt;简要描述&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;管理员将使用CoreProtect调取日志核实，必要时截图存证。&lt;/li&gt;
+&lt;li&gt;处理方式包括但不限于：警告、物品回收、建筑修复、临时封禁、永久封禁。&lt;/li&gt;
+&lt;li&gt;对处罚有异议者，可提供证据申诉。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;第四章-附则&#34;&gt;第四章 附则
+&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;第九条 免责声明&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;玩家因违反本规定造成的损失自行承担。&lt;/li&gt;
+&lt;li&gt;服务器不承担因网络波动、硬件故障、不可抗力导致的数据损失。&lt;/li&gt;
+&lt;li&gt;管理员有权在法律法规框架内对本规定进行解释与修改。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;第十条 生效时间&lt;/strong&gt;&lt;br&gt;
+本规定自发布之日起生效。&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;南原 | NanYuan 管理组&lt;/strong&gt;&lt;br&gt;
+&lt;strong&gt;日期：&lt;/strong&gt; 2025年12月&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>关于</title>
         <link>https://nanyuan.site/about/</link>
         <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
